@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/CoolDude180/Test-repository/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoolDude180/Test-repository/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Hello there!
+### This is my first Github page! I will change th ename and all later, but hope you like it!
+## Github pages
+### Making a Github page is very easy! Just do this:
+1. **Create a Username and Password for your Github Account**
+2. **Click on create repository**
+3. **Make it a public repository**
+4. **Put a name for your repository. A description is optional**
+5. **Go to settings**
+6. **Under Github pages, click on branch and make it Master Branch**
+7. **Select a theme for your site**
+8. **Then refresh the page and under Github pages, it will show your site link**
+9. **Then edit and make your webpage more interactive!**
+## A Github code
+### One useful code:
+1. **Use # for the biggest header, ## for a smaller header, and ### for the smallest header
+## Github book
+### For more Github codes and to go deeper into Github, in your Search Engine, type in: Github-Book. Click on the First URL and read the first three chapters. To go more advanced, read all 10 chapters.
