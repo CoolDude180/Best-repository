@@ -1,5 +1,5 @@
 ## Hello there!
-### This is my first Github page! I will change th ename and all later, but hope you like it!
+### This is my first Github page! I will change the name and all later, but hope you like it!
 ## Github pages
 ### Making a Github page is very easy! Just do this:
 1. **Create a Username and Password for your Github Account**
